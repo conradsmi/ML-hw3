@@ -1,0 +1,6 @@
+[[1.00752747 0.77716171]
+ [0.96844468 0.74436694]
+ [0.93462947 0.72065502]]
+
+ Left = RSME, right = MAE
+ Row 1 is PMF, row 2 is user-based, row 3 is item-based
